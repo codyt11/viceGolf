@@ -1,0 +1,54 @@
+.topRow{
+    height: 2.375rem;
+}
+
+.test{
+    margin: 1rem .1rem;
+    height: .2rem;
+    border: none;
+    align-items: center;
+}
+
+.flag{
+    height: 1rem;
+    padding-right: .5rem;
+}
+
+.phone{
+    background-color: rgb(130, 128, 128);
+    border: 1px solid black;
+    border-radius: 50%;
+    height: 1.75rem;
+    width: 2rem;
+    margin: 5px 0;
+    padding-left: 5px;
+    padding-right: .5rem;
+}
+
+.country{
+    font-size: 1rem;
+    margin-bottom: 0;
+}
+
+.vice{
+    font-size: 1.081rem;
+}
+
+.title{
+    line-height: 1rem;
+    margin-right: 1rem;
+}
+
+.cart{
+    background-image: url('../images/dark-bar.png');
+    background-repeat: no-repeat;
+    width: 20%;
+    color: white;
+    align-items: center;
+}
+.number{
+    color: rgb(151, 151, 151);
+}
+.order{
+    font-size: .75rem;
+}
